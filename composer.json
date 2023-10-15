@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": "^8.1",
-        "onelogin/php-saml": "^4",
+        "onelogin/php-saml": "^4 || dev-bugfix",
         "psr/log": "^1 || ^2 || ^3",
         "symfony/config": "^6",
         "symfony/dependency-injection": "^6",
